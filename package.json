@@ -1,0 +1,29 @@
+{
+  "name": "ionictools",
+  "version": "0.0.1",
+  "description": "Ionic framework tools",
+  "main": "./bin/ionictools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiorogeriosj/ionictools.git"
+  },
+  "keywords": [
+    "font"
+  ],
+  "author": "Fabio Rogerio SJ <fabio.rogerio.sj@gmail.com> (http://fabiorogeriosj.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiorogeriosj/ionictools/issues"
+  },
+  "homepage": "https://github.com/fabiorogeriosj/ionictools#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "bin": {
+    "ionictools": "./bin/ionictools"
+  },
+  "devDependencies": {}
+}
